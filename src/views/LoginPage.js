@@ -53,7 +53,7 @@ class LoginPage extends React.Component {
                 <Layout style={{margin: 'auto',
                     border: '1px solid black',
                     padding: '60px'}} className="container">
-                    <h1>Login page</h1>
+                    <h1>Login Page</h1>
                     <div style={{display: 'flex'}}>
                     <div>UserName:</div>
                         <div><input type={"text"} placeholder={"enter username"} /></div>
